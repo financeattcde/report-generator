@@ -1,4 +1,4 @@
-package main;
+package org.tcde.accounts.report.tools;
 
 public class InputRecord {
 
